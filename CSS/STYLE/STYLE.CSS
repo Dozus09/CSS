@@ -1,0 +1,10 @@
+/* 
+etiqueta = nada
+etiqueta universal = *
+etiqueta id = #
+etiqueta de clase = .
+*/
+
+body {
+    background-color: blue;
+}
